@@ -1,3 +1,2 @@
 hi welcome to poll scm
-d
-welcome again
+hello
